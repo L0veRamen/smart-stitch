@@ -1,0 +1,20 @@
+body {
+  padding: 0;
+  margin: 0;
+  font-family: "Fira Code", "Arial", monospace;
+  background: rgb(47, 247, 242);
+  background: linear-gradient(
+    90deg,
+    rgba(47, 247, 242, 1) 2%,
+    rgba(177, 164, 233, 1) 73%
+  );
+}
+
+button {
+  cursor: pointer;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
